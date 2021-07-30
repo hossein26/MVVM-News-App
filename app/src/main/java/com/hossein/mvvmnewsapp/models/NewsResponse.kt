@@ -1,4 +1,4 @@
-package com.hossein.mvvmnewsapp
+package com.hossein.mvvmnewsapp.models
 
 data class NewsResponse(
     val articles: List<Article>,

@@ -1,6 +1,6 @@
 package com.hossein.mvvmnewsapp.api
 
-import com.hossein.mvvmnewsapp.NewsResponse
+import com.hossein.mvvmnewsapp.models.NewsResponse
 import com.hossein.mvvmnewsapp.utils.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
